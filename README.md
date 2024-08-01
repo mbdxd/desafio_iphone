@@ -1,5 +1,3 @@
-# [DIO](www.dio.me) - Trilha Java Básico
-
 ## POO - Desafio
 
 ### Modelagem e Diagramação de um Componente iPhone
